@@ -34,9 +34,9 @@ nav ul li {
 
 #content {
     float: left;
-    width: calc(70% - 30px);
+    width: calc(80% - 30px);
     min-height: auto;
-    padding: 30px;
+    padding: 20px;
 }
 article{
     color: white;
@@ -45,9 +45,9 @@ article{
 }
 aside {
     float: left;
-    width: calc(30% - 30px);
+    width: calc(20% - 10px);
     min-height: auto;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
 footer{
