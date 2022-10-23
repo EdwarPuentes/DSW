@@ -98,7 +98,8 @@ footer{
     right: 140px;   
 }
 .referencia {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
     font-style: italic;
     font-size: small;
 }   
