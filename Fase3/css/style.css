@@ -13,7 +13,7 @@ body {
 
 header {
     font-style: oblique;
-    background: #EF5B0C;
+    background-color: #EF5B0C;
     text-align: center;
     height: auto;
     width: auto;
@@ -53,7 +53,7 @@ aside {
 }
 
 footer{
-    background-color: #3CCF4E;
+    background-color: #0096FF;
     text-align-last: center;
     font-family: monospace;
     color: white;
