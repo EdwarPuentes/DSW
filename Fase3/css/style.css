@@ -82,7 +82,7 @@ footer{
     display: block;
 }
 .menu li a:hover{
-    background: #EF5B0C;
+    background-color: #EF5B0C;
 }
 .menu li ul{
     display: none;
