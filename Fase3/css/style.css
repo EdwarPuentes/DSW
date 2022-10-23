@@ -21,14 +21,13 @@ header {
     color: white;
 }
 
-/*nav {
+nav {
     border-bottom: 5px solid:black;
 }
 nav ul li { 
     list-style: none;
     padding: 10px;
 }
-*/
 .clear {
     clear: both;
 }
