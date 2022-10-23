@@ -21,14 +21,14 @@ header {
     color: white;
 }
 
-nav {
+/*nav {
     border-bottom: 5px solid:black;
 }
 nav ul li { 
     list-style: none;
     padding: 10px;
 }
-
+*/
 .clear {
     clear: both;
 }
@@ -82,7 +82,7 @@ footer{
     display: block;
 }
 .menu li a:hover{
-    background-color:#EF5B0C;
+    background: #EF5B0C;
 }
 .menu li ul{
     display: none;
