@@ -68,6 +68,7 @@ footer{
     justify-content: center;
     align-items: flex-start; 
     color: white;  
+    background-color: #5F9DF7;
 }
 .menu>li{
     float: left;
