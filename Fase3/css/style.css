@@ -47,13 +47,13 @@ article{
 aside {
     float: left;
     width: calc(20% - 20px);
-    background-color: #D4F6CC;
+    background: #00D7FF;
     min-height: auto;
     padding-left: 20px;
 }
 
 footer{
-    background-color: #0096FF;
+    background-color: #3CCF4E;
     text-align-last: center;
     font-family: monospace;
     color: white;
