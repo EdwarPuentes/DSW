@@ -109,6 +109,10 @@ footer{
     float: left;
     color: white;
 }
+.inicio li:hover > ul{
+    display: block
+
+}
 .inicio li a:hover{
     background-color: #EF5B0C;
 }
