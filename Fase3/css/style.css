@@ -104,3 +104,11 @@ footer{
     font-style: italic;
     font-size: small;
 }   
+.inicio{
+    background-color: #5F9DF7;
+    float: left;
+    color: white;
+}
+.inicio li a:hover{
+    background-color: #EF5B0C;
+}
