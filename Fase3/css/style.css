@@ -1,6 +1,7 @@
 body {
     background: #003865;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
 }
 
 #container {
@@ -70,6 +71,7 @@ footer{
 }
 .menu>li{
     float: left;
+    color: white;
 }
 .menu li a {
     background-color: #003865;
@@ -79,7 +81,7 @@ footer{
     display: block;
 }
 .menu li a:hover{
-    background-color:red;
+    background-color:#EF5B0C;
 }
 .menu li ul{
     display: none;
