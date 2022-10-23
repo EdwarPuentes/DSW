@@ -1,5 +1,5 @@
 body {
-    background: beige;
+    background: #003865;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -12,7 +12,7 @@ body {
 
 header {
     font-style: oblique;
-    background: black;
+    background: #EF5B0C;
     text-align: center;
     height: auto;
     width: auto;
@@ -47,13 +47,13 @@ article{
 aside {
     float: left;
     width: calc(20% - 20px);
-    background-color: lightsteelblue;
+    background-color: #D4F6CC;
     min-height: auto;
     padding-left: 20px;
 }
 
 footer{
-    background-color: black;
+    background-color: #3CCF4E;
     text-align-last: center;
     font-family: monospace;
     color: white;
@@ -72,8 +72,8 @@ footer{
     float: left;
 }
 .menu li a {
-    background-color: red;
-    color: lightcoral;
+    background-color: #003865;
+    color: white;
     text-decoration: none;
     padding: 20px 80px;
     display: block;
