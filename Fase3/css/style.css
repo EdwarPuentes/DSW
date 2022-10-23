@@ -35,7 +35,6 @@ nav ul li {
 #content {
     float: left;
     width: calc(80% - 40px);
-    background-color: lightslategray;
     min-height: auto;
     padding: 20px;
 }
@@ -66,7 +65,8 @@ footer{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: flex-start;   
+    align-items: flex-start; 
+    color: white;  
 }
 .menu>li{
     float: left;
