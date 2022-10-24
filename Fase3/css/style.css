@@ -1,0 +1,106 @@
+body {
+    background: #003865;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#container {
+
+    width: auto;
+    margin: auto;
+    border: 1px solid black;
+}
+
+header {
+    font-style: oblique;
+    background-color: #EF5B0C;
+    text-align: center;
+    height: auto;
+    width: auto;
+    line-height: 100px;
+    color: white;
+}
+
+nav {
+    border-bottom: 5px solid:black;
+}
+nav ul li { 
+    list-style: none;
+    padding: 10px;
+}
+.clear {
+    clear: both;
+}
+
+#content {
+    float: left;
+    width: calc(70% - 40px);
+    min-height: auto;
+    padding: 20px;
+}
+article{
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+aside {
+    float: left;
+    width: calc(30% - 20px);
+    min-height: auto;
+    padding-left: 20px;
+}
+
+footer{
+    background-color: #3CCF4E;
+    text-align-last: center;
+    font-family: monospace;
+    color: white;
+}
+
+.menu{
+    padding: 0px 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start; 
+    color: white;  
+    background-color: #5F9DF7;
+}
+.menu>li{
+    float: left;
+    color: white;
+}
+.menu li a {
+    background-color: #5F9DF7;
+    color: white;
+    text-decoration: none;
+    padding: 20px 80px;
+    display: block;
+}
+.menu li a:hover{
+    background-color: #EF5B0C;
+}
+.menu li ul{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    min-width: 140px;
+}
+.menu li:hover > ul{
+    display: block;
+}
+.menu li ul li{
+    position: relative;
+}
+.menu li ul li ul{
+    right: 140px;   
+}
+.referencia {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-style: italic;
+    font-size: small;
+}
